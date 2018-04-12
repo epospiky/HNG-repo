@@ -1,0 +1,16 @@
+.body{background-image: url("bkg.jpg");
+		background-size: cover;
+		height: 800px;
+		
+		}
+.head{font-family: elephant;
+		font-size: 125px;
+		color: white;
+		text-align: center;
+		padding-top: 100px;}
+.time{font-family: elephant;
+		font-size: 100px;
+		color: white;
+		text-align: center;
+		margin-top: 100px;
+		}
